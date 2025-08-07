@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#007acc;">Labdhi Soni</span></h1>
 <h3 align="center">🚀 An enthusiastic Engineer exploring the realms of AI/ML & Data Analytics</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&width=435&lines=Engineer+%7C+AI+Explorer+%7C+Data+Analytics+Learner;Currently+Learning+GenAI+%26+Agentic+AI+Systems" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🌱 What I'm currently up to:
