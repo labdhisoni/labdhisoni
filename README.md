@@ -11,18 +11,6 @@
 - Diving deep into **Generative AI (GenAI)** and **Agentic AI systems**
 - Working on explainable AI, scheduling heuristics, and data-driven solutions
 
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/labdhi-soni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:labdhisoni@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools I Use:
 
 <p align="left">
